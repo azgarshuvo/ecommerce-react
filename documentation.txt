@@ -1,2 +1,2 @@
 1. create react project
-2. for latest CSS Add Sass [yarn add node-sass]
+2. for latest CSS Add Sass [yarn add node-sass] -> doc[https://create-react-app.dev/docs/adding-a-sass-stylesheet]
