@@ -4,3 +4,8 @@
 
 Adding Firebase:
 yarn add firebase
+
+Adding Redux:
+yarn add redux redux-logger react-redux
+
+last: //connect mapstatetoprops
